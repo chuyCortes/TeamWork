@@ -1,0 +1,87 @@
+Nombre:
+
+A.K.A:
+
+Edad:
+
+Área de Especialidad:
+
+Tabajo:
+
+(En caso de trabajar) Área(y cuando aplique, Lenguaje o lenguajes utilizados):
+
+
+1.- ¿Qué Lenguajes de Programación conoces?
+R=
+
+
+2.- ¿Qué Lenguajes de Programación Dominas?
+R=
+
+
+3.- ¿En qué te consideras especialista dentro del área de TI?
+R=
+
+
+4.- ¿Qué te gustaría aprender?
+R=
+
+
+5.- ¿Tienes experiencia laboral?
+R=
+
+
+6.- ¿Menciona Lenguajes del Lado servidor?
+R=
+
+
+7.- ¿Menciona Lenguajes para diseño y maquetado web?
+R=
+
+
+8.- ¿Qué puedes utilizar para realizar una aplicación móvil?
+R=
+
+
+9.- ¿Cuáles Gestores de base de datos dominas?
+R=
+
+
+11.- ¿Cómo Incluyes una hoja de estilo en un documento HTML?
+R=
+
+
+12.- ¿Cómo puedes integrar funcionalidad por medio de JavaScript a un documento HTML?
+R=
+
+
+13.- ¿Cómo se declara una variable en JavaScript?
+R=
+
+
+14.- ¿Cómo obtienes control sobre dicho documento con JavaScript nativo?
+R=
+
+
+15.- ¿Qué es DOM?
+R=
+
+
+16.- ¿Qué es AJAX?
+R=
+
+
+17.- ¿Menciona alguna de las funcionalidades que el API de HTML5 otorga?
+R=
+
+
+18.- ¿Qué es Responsive?
+R=
+
+
+19.- ¿Qué es Bootstrap y en qué puede ayudarnos?
+R=
+
+
+20.- ¿Cómo puedes utilizar una función JavaScript en html?
+R=
